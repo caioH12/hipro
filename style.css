@@ -1,3 +1,15 @@
+:root{
+    --vermelho:#5e2129;
+}
+
+
 body{
-    background-color:var(--vermelho)
+    background-color:var(--vermelho);
+    
+}
+header{
+    
+}
+img{
+    width: 10%;
 }
