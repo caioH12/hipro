@@ -21,7 +21,7 @@ header{
 
 #intro{
     display: flex;
-    background-color:rgb(255, 240, 249);
+    background-color:palevioletred
     border-radius: 30px;
     border: dashed 3px blue
 
