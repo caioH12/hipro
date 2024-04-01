@@ -22,4 +22,11 @@ header{
 #intro{
     display: flex;
     background-color: aliceblue;
+    border-radius: 30px;
+    border: dashed 3px blue
+
+}
+
+.img-intro{
+    width: 20%;
 }
