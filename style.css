@@ -21,9 +21,9 @@ header{
 
 #intro{
     display: flex;
-    background-color:blueviolet
+    background-color:blueviolet;
     border-radius: 30px;
-    border: dashed 3px blue
+    border: dashed 3px;
 
 }
 
