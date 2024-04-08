@@ -35,3 +35,7 @@ header{
 .equipe{
     text-align: center;
 }
+.fotos-integrantes{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
